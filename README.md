@@ -5,7 +5,7 @@ The original list of G1 races is here: https://www.ifhaonline.org/resources/WTGr
 Run the following command to download the package.<br>
 $ pip install G1Race<br>
 To run the package, use the following command.<br>
-$ G1Race
+$ G1Race<br>
 When you first run this package, you will see the text as shown in the image below.<br>
 <img width="385" alt="スクリーンショット 2022-01-08 22 23 32" src="https://user-images.githubusercontent.com/60126632/148645836-8a3aff56-bb71-4153-ad2e-d0b10a10be55.png">
 <br>
