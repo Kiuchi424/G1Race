@@ -5,6 +5,7 @@ The original list of G1 races is here: https://www.ifhaonline.org/resources/WTGr
 When you first run this package, you will see the text as shown in the image below.<br>
 <img width="385" alt="スクリーンショット 2022-01-08 22 23 32" src="https://user-images.githubusercontent.com/60126632/148645836-8a3aff56-bb71-4153-ad2e-d0b10a10be55.png">
 <br>
+When you see text like the one in this image, enter only one letter, either S, M, I, L, or E.<br>
 SMILE is a classification of distance in horse racing, as shown in the table below.<br>
 | Category | Meaning | Distance(m) |
 | ---- | ---- | ---- |
@@ -13,3 +14,10 @@ SMILE is a classification of distance in horse racing, as shown in the table bel
 | I | Intermediate | 1900 - 2100 |
 | L | Long | 2101 - 2700 |
 | E | Extended | 2701 - |
+<br>
+If you select L as an example, you will see the result as shown in the image below.<br>
+<img width="700" alt="スクリーンショット 2022-01-08 22 40 02" src="https://user-images.githubusercontent.com/60126632/148646301-4175e5ae-ef24-4e84-83f7-f202f05e0148.png">
+<br>
+The table at the top of the image shows the top 100 G1 class races in the world in selected categories.<br>
+This ranking is determined by the number on the far right of the table, called Rating, which indicates the level of the race. The higher this number, the higher the level of the race, and the more valuable the race is considered to be.<br>
+The table at the bottom of the image counts how many races from which country were ranked in the selected category.
