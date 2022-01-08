@@ -16,7 +16,7 @@ SMILE is a classification of distance in horse racing, as shown in the table bel
 | E | Extended | 2701 - |
 <br>
 If you select L as an example, you will see the result as shown in the image below.<br>
-<img width="700" alt="スクリーンショット 2022-01-08 22 40 02" src="https://user-images.githubusercontent.com/60126632/148646301-4175e5ae-ef24-4e84-83f7-f202f05e0148.png">
+<img width="698" alt="スクリーンショット 2022-01-08 22 46 13" src="https://user-images.githubusercontent.com/60126632/148646520-301dfedd-8d64-4c3c-9f8b-b8754aab5ef0.png">
 <br>
 The table at the top of the image shows the top 100 G1 class races in the world in selected categories.<br>
 This ranking is determined by the number on the far right of the table, called Rating, which indicates the level of the race. The higher this number, the higher the level of the race, and the more valuable the race is considered to be.<br>
